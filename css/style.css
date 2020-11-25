@@ -1,0 +1,19 @@
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+#glavni-naslov {
+    color: red;
+    font-size: 40px;
+}
+
+.istaknuto {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.veliki-tekst {
+    font-size: 50px;
+}
